@@ -7,7 +7,7 @@ All of the data is stored in local database, Laravel Migration and dump SQL is a
 Index page, containing all the posts. <br>
 <img src="https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Index.png" height=240>
 
-Post page, containing all the photos attribute of a post. You can add comment once you're logged in. <br>
+Post page, containing all the photos attribute of a post. You can add your comment once you're logged in. <br>
 <img src="https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Detail.png" height=240>
 
 Profile page, containing your Profile. <br>
