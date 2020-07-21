@@ -1,7 +1,7 @@
 Assalamu'alaikum
 # TugasAkhirWeb3
 
-This is an attempt of recreating a Marketplace in Indonesia using Laravel <br>
+This is an attempt of recreating a Marketplace in Indonesia using Laravel. <br>
 All of the data is stored in local database, Laravel Migration and dump SQL is available.
 
 Index page, containing the post <br>
