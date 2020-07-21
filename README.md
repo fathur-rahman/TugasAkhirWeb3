@@ -3,7 +3,7 @@ Assalamu'alaikum
 
 This is an attempt of recreating a Marketplace in Indonesia using Laravel <br>
 by Fathur Rahman Haikal in July 2020.
-All the data stored in local database.
+All of the data is stored in local database.
 
 Index page, containing the post <br>
 <img src="https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Index.png" height=240>
