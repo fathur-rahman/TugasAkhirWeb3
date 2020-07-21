@@ -1,11 +1,11 @@
 Assalamu'alaikum
 # TugasAkhirWeb3
 
-![Index](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Index.png)
+![Index](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Index.png|height=240)
 
-![Detail](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Detail.png)
+![Detail](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Detail.png|height=240)
 
-![Profile](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Profile.png)
+![Profile](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Profile.png|height=240)
 
 <br>
 Using script to make the page a bit more reactive
