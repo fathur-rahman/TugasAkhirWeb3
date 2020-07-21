@@ -2,7 +2,6 @@ Assalamu'alaikum
 # TugasAkhirWeb3
 
 This is an attempt of recreating a Marketplace in Indonesia using Laravel <br>
-by Fathur Rahman Haikal in July 2020.
 All of the data is stored in local database.
 
 Index page, containing the post <br>
@@ -18,4 +17,7 @@ Profile page, containing your Profile <br>
 <br>
 Using script to make the page a bit more reactive <br>
 <img src="https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Reactive%20input%20button%20script_1.gif" height=240>
+<br>
+by Fathur Rahman Haikal, July 2020.
+
 
