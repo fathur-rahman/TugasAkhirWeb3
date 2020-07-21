@@ -17,5 +17,5 @@ Profile page, containing your Profile <br>
 
 <br>
 Using script to make the page a bit more reactive <br>
-![JejakMasjid Preview](https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Reactive%20input%20button%20script_1.gif)
+<img src="https://github.com/fathur-rahman/TugasAkhirWeb3/blob/master/Previews/Reactive%20input%20button%20script_1.gif" height=240>
 
