@@ -15,7 +15,7 @@
                 <div id="formulario">
                     <div id="dynamicInput[0]">
                         Entry 1<br>
-                        <input type="file" name="photo[]" onchange="preview()">
+                        <input type="file" name="photo[]" onchange="preview();">
                     <img src="" id="frame" alt="" height="150px">
 
 
@@ -45,7 +45,7 @@
         function addInput() {
             var newdiv = document.createElement('div');
             newdiv.id = dynamicInput[counter];
-            newdiv.innerHTML = "Entry " + (counter + 1) + " <br><input type='file' name='photo[]'> <input type='button' class='btn btn-danger' value='-' onClick='removeInput(" + dynamicInput[counter] + ");'>";
+            newdiv.innerHTML = "Entry " + (counter + 1) + " <br><input type='file' name='photo[]' onchange='preview();'><img src='' id='frame' height='150px'> <input type='button' class='btn btn-danger' value='-' onClick='removeInput(" + dynamicInput[counter] + ");'>";
             document.getElementById('formulario').appendChild(newdiv);
             counter++;
         }
